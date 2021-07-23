@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieTestEW</string>
+    <string name="edit_hint">Filter by title</string>
+    <string name="title">Title</string>
+    <string name="opening_date">Opening Date</string>
+
+    <string name="headline">Headline</string>
+    <string name="by">By</string>
+    <string name="short_summary">Short Summary</string>
+    <string name="pub_date">Publication Date</string>
+    <string name="mpaa_rating">MPAA rating</string>
+
+
+</resources>
